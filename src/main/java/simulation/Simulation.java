@@ -10,5 +10,6 @@ public class Simulation {
 
     public static void simulateDay() {
         map.run();
+        map.eat();
     }
 }
